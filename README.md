@@ -8,13 +8,13 @@ Run: ```node Server/app.js```
 Server available on port 5000
 
 ### VPT
-Move to folder VPT
-Create VPT build folder: ```node .\bin\packer```
-Run server: ```node .\bin\server-node```
+Move to folder VPT  
+Create VPT build folder: ```node .\bin\packer```  
+Run server: ```node .\bin\server-node```  
 
 Open website http://localhost:3000/
 
-If landing page is missing the 8 preview boxes (as shown in image), please do a hard reload.  
+:warning: **If landing page is missing the 8 preview boxes** (as shown in image), please do a hard reload.  
 
 ![Landing page](VPT/src/images/landingPage.png)
 
