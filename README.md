@@ -16,7 +16,7 @@ Open website http://localhost:3000/
 
 :warning: **If landing page is missing the 8 preview boxes** (as shown in image), please do a hard reload.  
 
-![Landing page](VPT/src/images/landingPage.png)
+![Landing page](./VPT/src/images/landingPage.PNG)
 
 [Hard reload shortcuts](https://www.howtogeek.com/672607/how-to-hard-refresh-your-web-browser-to-bypass-your-cache/):  
 * Chrome, Firefox, or Edge for Windows:
